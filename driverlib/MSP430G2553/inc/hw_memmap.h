@@ -7,9 +7,8 @@
 // Include device specific header file
 //
 //*****************************************************************************
-#include <msp430.h>
 
-#include "msp430f5xx_6xxgeneric.h"
+#include "./msp430g2553.h"
 
 #include "stdint.h"
 #include "stdbool.h"
