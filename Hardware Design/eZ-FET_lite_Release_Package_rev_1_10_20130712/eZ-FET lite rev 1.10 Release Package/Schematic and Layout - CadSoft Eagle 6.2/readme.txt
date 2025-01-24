@@ -1,0 +1,2 @@
+Please download the MSP430 schematic symbols and footprints library for use with the Eagle CAD tool (Rev. E) from http://www.ti.com/litv/zip/slac060e
+Please note that the Eagle library package CSTCR6M used for component Q101 does not include tCream layer. It should be added manually before submitting data to production.

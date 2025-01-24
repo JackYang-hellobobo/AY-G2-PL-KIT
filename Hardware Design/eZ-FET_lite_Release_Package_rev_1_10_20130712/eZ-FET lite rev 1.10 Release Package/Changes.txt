@@ -1,0 +1,11 @@
+20130712
+- Modified software manifest
+- Removed Mentor PADS schematic and layout
+- Corrected Eagle silkscreen, changed LED101 and LED102 package types
+- Removed MSP430.DLL and HIL.DLL from Qt project
+
+20130520
+- Added software manifest
+
+20130503
+- eZ-FET_Production_Setup.exe: Fixed crash during MSP-FET430UIF firmware update
